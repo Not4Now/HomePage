@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\HomePage.csproj",
+      "projectUniqueName": "c:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\HomePage.csproj",
       "projectName": "HomePage",
-      "projectPath": "C:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\HomePage.csproj",
+      "projectPath": "c:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\HomePage.csproj",
       "packagesPath": "C:\\Users\\yamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\obj\\",
+      "outputPath": "c:\\Users\\yamil\\OneDrive\\Documents\\Development\\HomePage\\HomePage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yamil\\AppData\\Roaming\\NuGet\\NuGet.Config"

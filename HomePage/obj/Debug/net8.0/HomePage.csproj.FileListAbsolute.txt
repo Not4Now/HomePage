@@ -28,3 +28,4 @@ c:\Users\yamil\OneDrive\Documents\Development\HomePage\HomePage\obj\Debug\net8.0
 c:\Users\yamil\OneDrive\Documents\Development\HomePage\HomePage\obj\Debug\net8.0\HomePage.pdb
 c:\Users\yamil\OneDrive\Documents\Development\HomePage\HomePage\obj\Debug\net8.0\HomePage.genruntimeconfig.cache
 c:\Users\yamil\OneDrive\Documents\Development\HomePage\HomePage\obj\Debug\net8.0\ref\HomePage.dll
+c:\Users\yamil\OneDrive\Documents\Development\HomePage\HomePage\obj\Debug\net8.0\HomePage.sourcelink.json
